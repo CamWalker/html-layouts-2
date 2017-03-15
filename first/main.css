@@ -1,0 +1,54 @@
+main {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.top {
+  display: flex;
+  justify-content: space-around;
+}
+.red {
+  background: #bb1b1b;
+}
+.blue {
+  background: #4797d7;
+}
+.gray {
+  background-color: #444
+}
+.sq {
+  height: 150px;
+  width: 100%;
+  margin: 10px;
+}
+.content {
+  margin: 20px 10px;
+  font-family: sans-serif;
+  line-height: 140%;
+}
+.big-bar {
+  height: 300px;
+  width: 98%;
+  margin: 20px 10px 10px 10px;
+}
+.side {
+  height: 300px;
+  width: 34%;
+}
+.bottom {
+  height: 150px;
+  width: 98%;
+  margin: 10px;
+}
+.right-square {
+  width: 34%;
+  float: right;
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+.slim {
+  height: 150px;
+  width: 15%;
+}
